@@ -60,25 +60,79 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## 📁 Repository Structure
+
+```
+ai-ml-mastery-hub/
+├── 📊 AI_ML_Crash_Course.md          # Complete crash course (2,500+ lines)
+├── 📖 docs/                          # Getting started guides
+├── 🏛️ 01-foundations/                # Core concepts and fundamentals
+│   ├── 📜 history-of-ai.md
+│   ├── 🧠 core-concepts.md
+│   ├── 📚 types-of-learning.md
+│   └── 📖 terminology-glossary.md
+├── 🎯 02-practical-guides/            # Real-world application guidance
+│   ├── ✅ when-to-use-ai-ml.md
+│   ├── 💻 hardware-software-requirements.md
+│   └── ⚙️ development-environment-setup.md
+├── 🛠️ 03-tools-and-technologies/     # Complete technology stack
+│   ├── 🐍 python-for-ml/
+│   ├── 📊 data-manipulation/
+│   ├── 📈 visualization/
+│   ├── 🎯 traditional-ml/
+│   ├── 🧠 deep-learning/
+│   ├── 💬 nlp-tools/
+│   ├── 👁️ computer-vision/
+│   ├── 🤖 automl/
+│   └── 🚀 mlops/
+├── 🔨 04-hands-on-projects/          # Learning through building
+│   ├── 🐣 beginner/
+│   ├── 🚀 intermediate/
+│   ├── 🎓 advanced/
+│   └── 🌍 real-world-applications/
+├── 🔬 05-specialized-topics/         # Advanced and cutting-edge areas
+│   ├── 🔍 explainable-ai/
+│   ├── 📱 edge-ai-tinyml/
+│   ├── 🔒 federated-learning/
+│   ├── 🎨 generative-ai/
+│   ├── 🎯 recommender-systems/
+│   └── 👁️ computer-vision-specialized/
+├── 💬 06-ai-prompting-guide/         # Master AI interaction
+├── 📂 07-datasets-and-resources/     # Data and learning materials
+├── 🎓 08-career-and-learning-paths/  # Professional development
+├── ⚖️ 09-ethics-and-best-practices/  # Responsible AI development
+├── 🔮 10-future-trends/              # What's coming next
+├── 📁 examples/                      # Code snippets and mini-projects
+├── 📚 resources/                     # External resources and references
+└── 🎨 assets/                        # Images, diagrams, and media
+```
+
 ## 📚 Repository Highlights
 
-### 🔥 Featured Projects
-- **[Beginner]** Spam Email Detection - Traditional vs ML approaches
-- **[Intermediate]** Movie Recommendation System - Build your own Netflix
-- **[Advanced]** AI-Powered Chatbot - From scratch implementation
-- **[Real-World]** Supply Chain Optimization - Industry-grade solution
+### 🔥 Complete Learning Path
+- **[AI/ML Crash Course](AI_ML_Crash_Course.md)** - Complete 2,500+ line guide covering everything
+- **[Foundations](01-foundations/)** - History, core concepts, and terminology
+- **[Practical Guides](02-practical-guides/)** - When and how to apply AI/ML
+- **[Tools & Technologies](03-tools-and-technologies/)** - Complete technology stack
 
-### 🎯 Specialized Guides
+### 🎯 Hands-On Learning
+- **[Beginner Projects](04-hands-on-projects/beginner/)** - Start building immediately
+- **[Intermediate Projects](04-hands-on-projects/intermediate/)** - Level up your skills
+- **[Advanced Projects](04-hands-on-projects/advanced/)** - Production-ready systems
+- **[Real-World Applications](04-hands-on-projects/real-world-applications/)** - Industry solutions
+
+### 🚀 Specialized Topics
 - **[AI Prompting Mastery](06-ai-prompting-guide/)** - Get the most out of AI assistants
 - **[Edge AI & TinyML](05-specialized-topics/edge-ai-tinyml/)** - AI on devices
 - **[Explainable AI](05-specialized-topics/explainable-ai/)** - Understanding AI decisions
-- **[MLOps Best Practices](03-tools-and-technologies/mlops/)** - Production-ready ML
+- **[Generative AI](05-specialized-topics/generative-ai/)** - Creating new content
+- **[MLOps](03-tools-and-technologies/mlops/)** - Production deployment
 
-### 📊 Datasets & Resources
-- Curated beginner-friendly datasets
-- Data preparation and cleaning guides
-- Synthetic data generation techniques
-- Links to premium datasets and APIs
+### 📊 Resources & Career Guidance
+- **[Datasets & Resources](07-datasets-and-resources/)** - Curated learning materials
+- **[Career Paths](08-career-and-learning-paths/)** - Professional development
+- **[Ethics & Best Practices](09-ethics-and-best-practices/)** - Responsible AI
+- **[Future Trends](10-future-trends/)** - What's coming next
 
 ## 🤝 Community & Contributing
 
