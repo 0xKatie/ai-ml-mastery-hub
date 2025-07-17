@@ -301,7 +301,7 @@ def encrypted_inference(encrypted_data, model_weights):
 
 ### Tools & Frameworks
 - **[Fairlearn](https://fairlearn.org/)** - Python library for fairness assessment
-- **[AI Fairness 360](https://aif360.mybluemix.net/)** - IBM's fairness toolkit
+- **[AI Fairness 360](https://github.com/Trusted-AI/AIF360)** - IBM's fairness toolkit
 - **[What-If Tool](https://pair-code.github.io/what-if-tool/)** - Google's model understanding tool
 
 ### Legal & Regulatory
